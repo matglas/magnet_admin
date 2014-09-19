@@ -1,0 +1,6 @@
+name = Magnet Administration
+description = Enabling and default config for administration experience.
+core = 7.x
+version = 7.x-0.1
+
+env_dependencies[development][] = module_filter
